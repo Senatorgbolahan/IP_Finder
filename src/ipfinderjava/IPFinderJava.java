@@ -1,5 +1,5 @@
 
-package ipfinder;
+package ipfinderjava;
 
 import java.awt.FlowLayout;
 import java.awt.GridLayout;
